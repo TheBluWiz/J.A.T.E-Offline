@@ -13,6 +13,7 @@
   This app is designed to be deployed to a server and is accessed through a client browser. With supported browsers it can even be installed. The most important aspect is the service worker which allows it to run offline.
   ## Deployed
   Check out the deployed version of the app [here](https://jate-offline.herokuapp.com)!
+  ![screenshot](images/jate-screenshot.png)
   ## Questions
   If you would like to contact me or view other projects I'm working on, you can explore my repositories at [TheBluWiz](https://github.com/TheBluWiz), or email me at thebluwiz@icloud.com.
   ## License
